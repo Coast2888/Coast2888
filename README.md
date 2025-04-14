@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coast2888&label=Profile%20views&color=0e75b6&style=flat" alt="coast2888" /> </p>
 
-- 🔭 I’m currently working on [Cryptoversus.com](cryptoversus.com)
-
 - 🌱 I’m currently learning **Start to finish web development**
 
 - 👯 I’m looking to collaborate on **New Sacred**
